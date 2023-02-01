@@ -1,0 +1,10 @@
+{
+  "name": "AirPods (1st generation)",
+  "type": "AirPods",
+  "devices": [
+    "AirPods1,1"
+  ],
+  "hideChildren": false,
+  "key": "AirPods (1st generation)",
+  "order": 0
+}

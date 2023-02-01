@@ -1,0 +1,10 @@
+{
+  "name": "Mouse",
+  "type": "Mouse",
+  "devices": [
+    "Mouse"
+  ],
+  "hideChildren": false,
+  "key": "Mouse",
+  "order": 1
+}

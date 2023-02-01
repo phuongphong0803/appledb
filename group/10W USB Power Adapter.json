@@ -1,0 +1,10 @@
+{
+  "name": "10W USB Power Adapter",
+  "type": "Power",
+  "devices": [
+    "10W USB Power Adapter"
+  ],
+  "hideChildren": false,
+  "key": "10W USB Power Adapter",
+  "order": 10
+}

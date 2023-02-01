@@ -1,0 +1,10 @@
+{
+  "name": "Beddit 3.5 Sleep Monitor",
+  "type": "Beddit",
+  "devices": [
+    "Beddit 3.5 Sleep Monitor"
+  ],
+  "hideChildren": false,
+  "key": "Beddit 3.5 Sleep Monitor",
+  "order": 3
+}

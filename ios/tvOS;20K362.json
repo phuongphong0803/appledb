@@ -1,0 +1,54 @@
+{
+  "osStr": "tvOS",
+  "version": "16.2",
+  "build": "20K362",
+  "released": "2022-12-13",
+  "deviceMap": [
+    "AppleTV5,3",
+    "AppleTV6,2",
+    "AppleTV11,1",
+    "AppleTV14,1",
+    "AppleTV14,1-wifi"
+  ],
+  "sources": [
+    {
+      "type": "ipsw",
+      "deviceMap": [
+        "AppleTV5,3"
+      ],
+      "links": [
+        {
+          "url": "https://updates.cdn-apple.com/2022WinterFCS/fullrestores/012-62470/AF38755F-FBD2-44D5-A48E-C3E6A66F94BD/AppleTV5,3_16.2_20K362_Restore.ipsw",
+          "preferred": true,
+          "active": true
+        },
+        {
+          "url": "http://updates-http.cdn-apple.com/2022WinterFCS/fullrestores/012-62470/AF38755F-FBD2-44D5-A48E-C3E6A66F94BD/AppleTV5,3_16.2_20K362_Restore.ipsw",
+          "preferred": false,
+          "active": true
+        }
+      ],
+      "hashes": {
+        "sha2-256": "63f3a0749d68ffc63dc089af4f8d3ea048c44f3556e2a28a7d4a629a54140caf",
+        "sha1": "e183dac94b5d3270edfb23e9e812082cbedca533"
+      },
+      "size": 3709975754
+    }
+  ],
+  "uniqueBuild": "20K362",
+  "key": "tvOS;20K362",
+  "beta": false,
+  "rc": false,
+  "preinstalled": [],
+  "osType": "tvOS",
+  "devices": {
+    "AppleTV5,3": {
+      "ipsw": "https://updates.cdn-apple.com/2022WinterFCS/fullrestores/012-62470/AF38755F-FBD2-44D5-A48E-C3E6A66F94BD/AppleTV5,3_16.2_20K362_Restore.ipsw"
+    },
+    "AppleTV6,2": {},
+    "AppleTV11,1": {},
+    "AppleTV14,1": {},
+    "AppleTV14,1-wifi": {}
+  },
+  "appledburl": "https://appledb.dev/firmware/tvOS/20K362"
+}

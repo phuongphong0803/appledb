@@ -1,0 +1,10 @@
+{
+  "name": "MagSafe Charger",
+  "type": "Power",
+  "devices": [
+    "MagSafe Charger"
+  ],
+  "hideChildren": false,
+  "key": "MagSafe Charger",
+  "order": 61
+}

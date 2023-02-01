@@ -1,0 +1,10 @@
+{
+  "name": "MacBook Pro (M1, Late 2020)",
+  "type": "MacBook Pro",
+  "devices": [
+    "MacBookPro17,1"
+  ],
+  "hideChildren": false,
+  "key": "MacBook Pro (M1, Late 2020)",
+  "order": 47
+}

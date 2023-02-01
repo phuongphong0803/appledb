@@ -1,0 +1,10 @@
+{
+  "name": "iPod (Dock Connector)",
+  "type": "iPod",
+  "devices": [
+    "iPod (Dock Connector)"
+  ],
+  "hideChildren": false,
+  "key": "iPod (Dock Connector)",
+  "order": 2
+}

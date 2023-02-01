@@ -1,0 +1,10 @@
+{
+  "name": "USB-C to Lightning Cable (1 m)",
+  "type": "Power",
+  "devices": [
+    "USB-C to Lightning Cable (1 m)"
+  ],
+  "hideChildren": false,
+  "key": "USB-C to Lightning Cable (1 m)",
+  "order": 73
+}

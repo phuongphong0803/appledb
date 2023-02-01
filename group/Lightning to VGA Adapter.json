@@ -1,0 +1,10 @@
+{
+  "name": "Lightning to VGA Adapter",
+  "type": "Adapters",
+  "devices": [
+    "Lightning to VGA Adapter"
+  ],
+  "hideChildren": false,
+  "key": "Lightning to VGA Adapter",
+  "order": 8
+}

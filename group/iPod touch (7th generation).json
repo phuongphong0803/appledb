@@ -1,0 +1,10 @@
+{
+  "name": "iPod touch (7th generation)",
+  "type": "iPod touch",
+  "devices": [
+    "iPod9,1"
+  ],
+  "hideChildren": false,
+  "key": "iPod touch (7th generation)",
+  "order": 6
+}

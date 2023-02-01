@@ -1,0 +1,10 @@
+{
+  "name": "Wireless Mouse",
+  "type": "Mouse",
+  "devices": [
+    "Wireless Mouse"
+  ],
+  "hideChildren": false,
+  "key": "Wireless Mouse",
+  "order": 2
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Diddybeats",
+  "type": "Beats Earbuds",
+  "devices": [
+    "Diddybeats"
+  ],
+  "hideChildren": false,
+  "key": "Diddybeats",
+  "order": 2
+}

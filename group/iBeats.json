@@ -1,0 +1,11 @@
+{
+  "name": "iBeats",
+  "type": "Beats Earbuds",
+  "order": 4,
+  "devices": [
+    "iBeats",
+    "iBeats Justbeats"
+  ],
+  "hideChildren": false,
+  "key": "iBeats"
+}

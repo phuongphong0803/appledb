@@ -1,0 +1,10 @@
+{
+  "name": "Apple Thunderbolt Display",
+  "type": "Display",
+  "devices": [
+    "Apple Thunderbolt Display"
+  ],
+  "hideChildren": false,
+  "key": "Apple Thunderbolt Display",
+  "order": 12
+}

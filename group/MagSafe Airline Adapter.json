@@ -1,0 +1,10 @@
+{
+  "name": "MagSafe Airline Adapter",
+  "type": "Adapters",
+  "devices": [
+    "MagSafe Airline Adapter"
+  ],
+  "hideChildren": false,
+  "key": "MagSafe Airline Adapter",
+  "order": 9
+}

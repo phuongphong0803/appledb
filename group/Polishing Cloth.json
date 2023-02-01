@@ -1,0 +1,10 @@
+{
+  "name": "Polishing Cloth",
+  "type": "Accessories",
+  "devices": [
+    "Polishing Cloth"
+  ],
+  "hideChildren": false,
+  "key": "Polishing Cloth",
+  "order": 27
+}

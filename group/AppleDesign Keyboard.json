@@ -1,0 +1,10 @@
+{
+  "name": "AppleDesign Keyboard",
+  "type": "Keyboard",
+  "devices": [
+    "AppleDesign Keyboard"
+  ],
+  "hideChildren": false,
+  "key": "AppleDesign Keyboard",
+  "order": 8
+}

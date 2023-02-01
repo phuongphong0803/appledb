@@ -1,0 +1,16 @@
+{
+  "osStr": "macOS",
+  "version": "11.6.7",
+  "build": "20G630",
+  "released": "2022-06-09",
+  "releaseNotes": "https://support.apple.com/HT211896#macos1167",
+  "uniqueBuild": "20G630",
+  "key": "macOS;20G630",
+  "beta": false,
+  "rc": false,
+  "deviceMap": [],
+  "preinstalled": [],
+  "osType": "macOS",
+  "devices": {},
+  "appledburl": "https://appledb.dev/firmware/macOS/20G630"
+}

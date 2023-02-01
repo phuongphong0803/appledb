@@ -1,0 +1,10 @@
+{
+  "name": "Beats EP",
+  "type": "Beats Headphones",
+  "devices": [
+    "Beats EP"
+  ],
+  "hideChildren": false,
+  "key": "Beats EP",
+  "order": 8
+}

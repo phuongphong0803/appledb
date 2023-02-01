@@ -1,0 +1,11 @@
+{
+  "name": "Apple TV (3rd generation)",
+  "type": "Apple TV",
+  "devices": [
+    "AppleTV3,1",
+    "AppleTV3,2"
+  ],
+  "hideChildren": false,
+  "key": "Apple TV (3rd generation)",
+  "order": 2
+}

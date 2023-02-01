@@ -1,0 +1,10 @@
+{
+  "name": "Magnetic Charging Bracelet",
+  "type": "Power",
+  "devices": [
+    "Magnetic Charging Bracelet"
+  ],
+  "hideChildren": false,
+  "key": "Magnetic Charging Bracelet",
+  "order": 63
+}

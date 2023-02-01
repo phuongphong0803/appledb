@@ -1,0 +1,10 @@
+{
+  "name": "beatscable",
+  "type": "Adapters",
+  "devices": [
+    "beatscable"
+  ],
+  "hideChildren": false,
+  "key": "beatscable",
+  "order": 13
+}

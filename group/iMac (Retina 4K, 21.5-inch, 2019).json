@@ -1,0 +1,10 @@
+{
+  "name": "iMac (Retina 4K, 21.5-inch, 2019)",
+  "type": "iMac",
+  "devices": [
+    "iMac19,2"
+  ],
+  "hideChildren": false,
+  "key": "iMac (Retina 4K, 21.5-inch, 2019)",
+  "order": 38
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iPad Pro (10.5-inch)",
+  "type": "iPad Pro",
+  "order": 2,
+  "devices": [
+    "iPad7,3",
+    "iPad7,4"
+  ],
+  "hideChildren": false,
+  "key": "iPad Pro (10.5-inch)"
+}

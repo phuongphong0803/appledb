@@ -1,0 +1,10 @@
+{
+  "name": "iPod USB Power Adapter",
+  "type": "Power",
+  "devices": [
+    "iPod USB Power Adapter"
+  ],
+  "hideChildren": false,
+  "key": "iPod USB Power Adapter",
+  "order": 58
+}

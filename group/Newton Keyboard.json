@@ -1,0 +1,10 @@
+{
+  "name": "Newton Keyboard",
+  "type": "Keyboard",
+  "devices": [
+    "Newton Keyboard"
+  ],
+  "hideChildren": false,
+  "key": "Newton Keyboard",
+  "order": 23
+}

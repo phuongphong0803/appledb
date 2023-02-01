@@ -1,0 +1,10 @@
+{
+  "name": "Thunderbolt to Firewire Adapter",
+  "type": "Adapters",
+  "devices": [
+    "Thunderbolt to Firewire Adapter"
+  ],
+  "hideChildren": false,
+  "key": "Thunderbolt to Firewire Adapter",
+  "order": 10
+}

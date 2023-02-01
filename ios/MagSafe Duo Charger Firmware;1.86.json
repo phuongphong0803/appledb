@@ -1,0 +1,18 @@
+{
+  "osStr": "MagSafe Duo Charger Firmware",
+  "version": "1.86",
+  "deviceMap": [
+    "MagSafe Duo Charger"
+  ],
+  "uniqueBuild": "1.86",
+  "key": "MagSafe Duo Charger Firmware;1.86",
+  "beta": false,
+  "rc": false,
+  "released": "",
+  "preinstalled": [],
+  "osType": "MagSafe Duo Charger Firmware",
+  "devices": {
+    "MagSafe Duo Charger": {}
+  },
+  "appledburl": "https://appledb.dev/firmware/MagSafe-Duo-Charger-Firmware/1.86"
+}

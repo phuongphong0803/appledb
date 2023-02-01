@@ -1,0 +1,25 @@
+{
+  "osStr": "audioOS",
+  "version": "16.3",
+  "build": "20K649",
+  "released": "2023-01-24",
+  "deviceMap": [
+    "AudioAccessory1,1",
+    "AudioAccessory1,2",
+    "AudioAccessory5,1",
+    "AudioAccessory6,1"
+  ],
+  "uniqueBuild": "20K649",
+  "key": "audioOS;20K649",
+  "beta": false,
+  "rc": false,
+  "preinstalled": [],
+  "osType": "audioOS",
+  "devices": {
+    "AudioAccessory1,1": {},
+    "AudioAccessory1,2": {},
+    "AudioAccessory5,1": {},
+    "AudioAccessory6,1": {}
+  },
+  "appledburl": "https://appledb.dev/firmware/audioOS/20K649"
+}
